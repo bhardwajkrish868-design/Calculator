@@ -16,9 +16,6 @@ public class Dashboard extends JFrame {
     private static final Color BACKGROUND =
             new Color(246, 248, 252);
 
-    private static final Color TEXT =
-            new Color(25, 45, 75);
-
     private static final Color MUTED =
             new Color(90, 115, 150);
 
